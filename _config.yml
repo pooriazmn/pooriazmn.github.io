@@ -21,7 +21,7 @@
 title: Pouria Zamani
 email: me@pouriazmn.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Pouria'z webpage (under development!)
+  This is Pouria's webpage (under development!)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pouriazmn.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pouriazmn
