@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: posts
 title:  "Pouria's First Post"
 date:   2024-05-10 20:00:29 -0500
+category: update
 ---
 Hey all this is my first post!
 
